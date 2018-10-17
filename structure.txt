@@ -1,0 +1,278 @@
+Folder PATH listing
+Volume serial number is F668-5430
+C:.
+³   repo_rules.txt
+³   structure.txt
+³   
+ÃÄÄÄproject_1
+³   ÃÄÄÄhistory
+³   ³   ÃÄÄÄYYYYMMDD_release_1
+³   ³   ³   ÃÄÄÄDevelopment
+³   ³   ³   ³   ÃÄÄÄapplication_root
+³   ³   ³   ³   ÀÄÄÄdocuments
+³   ³   ³   ³       ÃÄÄÄdocumentation
+³   ³   ³   ³       ³   ÃÄÄÄmeeting_minutes
+³   ³   ³   ³       ³   ÀÄÄÄproject_documents
+³   ³   ³   ³       ÀÄÄÄmarketing
+³   ³   ³   ÀÄÄÄManagement
+³   ³   ³       ÃÄÄÄdocuments
+³   ³   ³       ³   ÀÄÄÄproject_documents
+³   ³   ³       ÃÄÄÄmeetings_minutes
+³   ³   ³       ÀÄÄÄreports
+³   ³   ÃÄÄÄYYYYMMDD_release_2
+³   ³   ³   ÃÄÄÄDevelopment
+³   ³   ³   ³   ÃÄÄÄapplication_root
+³   ³   ³   ³   ÀÄÄÄdocuments
+³   ³   ³   ³       ÃÄÄÄdocumentation
+³   ³   ³   ³       ³   ÃÄÄÄmeeting_minutes
+³   ³   ³   ³       ³   ÀÄÄÄproject_documents
+³   ³   ³   ³       ÀÄÄÄmarketing
+³   ³   ³   ÀÄÄÄManagement
+³   ³   ³       ÃÄÄÄdocuments
+³   ³   ³       ³   ÀÄÄÄproject_documents
+³   ³   ³       ÃÄÄÄmeetings_minutes
+³   ³   ³       ÀÄÄÄreports
+³   ³   ÃÄÄÄYYYYMMDD_release_3
+³   ³   ³   ÃÄÄÄDevelopment
+³   ³   ³   ³   ÃÄÄÄapplication_root
+³   ³   ³   ³   ÀÄÄÄdocuments
+³   ³   ³   ³       ÃÄÄÄdocumentation
+³   ³   ³   ³       ³   ÃÄÄÄmeeting_minutes
+³   ³   ³   ³       ³   ÀÄÄÄproject_documents
+³   ³   ³   ³       ÀÄÄÄmarketing
+³   ³   ³   ÀÄÄÄManagement
+³   ³   ³       ÃÄÄÄdocuments
+³   ³   ³       ³   ÀÄÄÄproject_documents
+³   ³   ³       ÃÄÄÄmeetings_minutes
+³   ³   ³       ÀÄÄÄreports
+³   ³   ÀÄÄÄYYYYMMDD_release_N
+³   ³       ÃÄÄÄDevelopment
+³   ³       ³   ÃÄÄÄapplication_root
+³   ³       ³   ÀÄÄÄdocuments
+³   ³       ³       ÃÄÄÄdocumentation
+³   ³       ³       ³   ÃÄÄÄmeeting_minutes
+³   ³       ³       ³   ÀÄÄÄproject_documents
+³   ³       ³       ÀÄÄÄmarketing
+³   ³       ÀÄÄÄManagement
+³   ³           ÃÄÄÄdocuments
+³   ³           ³   ÀÄÄÄproject_documents
+³   ³           ÃÄÄÄmeetings_minutes
+³   ³           ÀÄÄÄreports
+³   ÃÄÄÄknowledge_base
+³   ÀÄÄÄworking_directory
+³       ÃÄÄÄDevelopment
+³       ³   ÃÄÄÄapplication_root
+³       ³   ÀÄÄÄdocuments
+³       ³       ÃÄÄÄdocumentation
+³       ³       ³   ÃÄÄÄmeeting_minutes
+³       ³       ³   ÀÄÄÄproject_documents
+³       ³       ÀÄÄÄmarketing
+³       ÀÄÄÄManagement
+³           ÃÄÄÄdocuments
+³           ³   ÀÄÄÄproject_documents
+³           ÃÄÄÄmeetings_minutes
+³           ÀÄÄÄreports
+ÃÄÄÄproject_2
+³   ÃÄÄÄhistory
+³   ³   ÃÄÄÄYYYYMMDD_release_1
+³   ³   ³   ÃÄÄÄDevelopment
+³   ³   ³   ³   ÃÄÄÄapplication_root
+³   ³   ³   ³   ÀÄÄÄdocuments
+³   ³   ³   ³       ÃÄÄÄdocumentation
+³   ³   ³   ³       ³   ÃÄÄÄmeeting_minutes
+³   ³   ³   ³       ³   ÀÄÄÄproject_documents
+³   ³   ³   ³       ÀÄÄÄmarketing
+³   ³   ³   ÀÄÄÄManagement
+³   ³   ³       ÃÄÄÄdocuments
+³   ³   ³       ³   ÀÄÄÄproject_documents
+³   ³   ³       ÃÄÄÄmeetings_minutes
+³   ³   ³       ÀÄÄÄreports
+³   ³   ÃÄÄÄYYYYMMDD_release_2
+³   ³   ³   ÃÄÄÄDevelopment
+³   ³   ³   ³   ÃÄÄÄapplication_root
+³   ³   ³   ³   ÀÄÄÄdocuments
+³   ³   ³   ³       ÃÄÄÄdocumentation
+³   ³   ³   ³       ³   ÃÄÄÄmeeting_minutes
+³   ³   ³   ³       ³   ÀÄÄÄproject_documents
+³   ³   ³   ³       ÀÄÄÄmarketing
+³   ³   ³   ÀÄÄÄManagement
+³   ³   ³       ÃÄÄÄdocuments
+³   ³   ³       ³   ÀÄÄÄproject_documents
+³   ³   ³       ÃÄÄÄmeetings_minutes
+³   ³   ³       ÀÄÄÄreports
+³   ³   ÃÄÄÄYYYYMMDD_release_3
+³   ³   ³   ÃÄÄÄDevelopment
+³   ³   ³   ³   ÃÄÄÄapplication_root
+³   ³   ³   ³   ÀÄÄÄdocuments
+³   ³   ³   ³       ÃÄÄÄdocumentation
+³   ³   ³   ³       ³   ÃÄÄÄmeeting_minutes
+³   ³   ³   ³       ³   ÀÄÄÄproject_documents
+³   ³   ³   ³       ÀÄÄÄmarketing
+³   ³   ³   ÀÄÄÄManagement
+³   ³   ³       ÃÄÄÄdocuments
+³   ³   ³       ³   ÀÄÄÄproject_documents
+³   ³   ³       ÃÄÄÄmeetings_minutes
+³   ³   ³       ÀÄÄÄreports
+³   ³   ÀÄÄÄYYYYMMDD_release_N
+³   ³       ÃÄÄÄDevelopment
+³   ³       ³   ÃÄÄÄapplication_root
+³   ³       ³   ÀÄÄÄdocuments
+³   ³       ³       ÃÄÄÄdocumentation
+³   ³       ³       ³   ÃÄÄÄmeeting_minutes
+³   ³       ³       ³   ÀÄÄÄproject_documents
+³   ³       ³       ÀÄÄÄmarketing
+³   ³       ÀÄÄÄManagement
+³   ³           ÃÄÄÄdocuments
+³   ³           ³   ÀÄÄÄproject_documents
+³   ³           ÃÄÄÄmeetings_minutes
+³   ³           ÀÄÄÄreports
+³   ÃÄÄÄknowledge_base
+³   ÀÄÄÄworking_directory
+³       ÃÄÄÄDevelopment
+³       ³   ÃÄÄÄapplication_root
+³       ³   ÀÄÄÄdocuments
+³       ³       ÃÄÄÄdocumentation
+³       ³       ³   ÃÄÄÄmeeting_minutes
+³       ³       ³   ÀÄÄÄproject_documents
+³       ³       ÀÄÄÄmarketing
+³       ÀÄÄÄManagement
+³           ÃÄÄÄdocuments
+³           ³   ÀÄÄÄproject_documents
+³           ÃÄÄÄmeetings_minutes
+³           ÀÄÄÄreports
+ÃÄÄÄproject_3
+³   ÃÄÄÄhistory
+³   ³   ÃÄÄÄYYYYMMDD_release_1
+³   ³   ³   ÃÄÄÄDevelopment
+³   ³   ³   ³   ÃÄÄÄapplication_root
+³   ³   ³   ³   ÀÄÄÄdocuments
+³   ³   ³   ³       ÃÄÄÄdocumentation
+³   ³   ³   ³       ³   ÃÄÄÄmeeting_minutes
+³   ³   ³   ³       ³   ÀÄÄÄproject_documents
+³   ³   ³   ³       ÀÄÄÄmarketing
+³   ³   ³   ÀÄÄÄManagement
+³   ³   ³       ÃÄÄÄdocuments
+³   ³   ³       ³   ÀÄÄÄproject_documents
+³   ³   ³       ÃÄÄÄmeetings_minutes
+³   ³   ³       ÀÄÄÄreports
+³   ³   ÃÄÄÄYYYYMMDD_release_2
+³   ³   ³   ÃÄÄÄDevelopment
+³   ³   ³   ³   ÃÄÄÄapplication_root
+³   ³   ³   ³   ÀÄÄÄdocuments
+³   ³   ³   ³       ÃÄÄÄdocumentation
+³   ³   ³   ³       ³   ÃÄÄÄmeeting_minutes
+³   ³   ³   ³       ³   ÀÄÄÄproject_documents
+³   ³   ³   ³       ÀÄÄÄmarketing
+³   ³   ³   ÀÄÄÄManagement
+³   ³   ³       ÃÄÄÄdocuments
+³   ³   ³       ³   ÀÄÄÄproject_documents
+³   ³   ³       ÃÄÄÄmeetings_minutes
+³   ³   ³       ÀÄÄÄreports
+³   ³   ÃÄÄÄYYYYMMDD_release_3
+³   ³   ³   ÃÄÄÄDevelopment
+³   ³   ³   ³   ÃÄÄÄapplication_root
+³   ³   ³   ³   ÀÄÄÄdocuments
+³   ³   ³   ³       ÃÄÄÄdocumentation
+³   ³   ³   ³       ³   ÃÄÄÄmeeting_minutes
+³   ³   ³   ³       ³   ÀÄÄÄproject_documents
+³   ³   ³   ³       ÀÄÄÄmarketing
+³   ³   ³   ÀÄÄÄManagement
+³   ³   ³       ÃÄÄÄdocuments
+³   ³   ³       ³   ÀÄÄÄproject_documents
+³   ³   ³       ÃÄÄÄmeetings_minutes
+³   ³   ³       ÀÄÄÄreports
+³   ³   ÀÄÄÄYYYYMMDD_release_N
+³   ³       ÃÄÄÄDevelopment
+³   ³       ³   ÃÄÄÄapplication_root
+³   ³       ³   ÀÄÄÄdocuments
+³   ³       ³       ÃÄÄÄdocumentation
+³   ³       ³       ³   ÃÄÄÄmeeting_minutes
+³   ³       ³       ³   ÀÄÄÄproject_documents
+³   ³       ³       ÀÄÄÄmarketing
+³   ³       ÀÄÄÄManagement
+³   ³           ÃÄÄÄdocuments
+³   ³           ³   ÀÄÄÄproject_documents
+³   ³           ÃÄÄÄmeetings_minutes
+³   ³           ÀÄÄÄreports
+³   ÃÄÄÄknowledge_base
+³   ÀÄÄÄworking_directory
+³       ÃÄÄÄDevelopment
+³       ³   ÃÄÄÄapplication_root
+³       ³   ÀÄÄÄdocuments
+³       ³       ÃÄÄÄdocumentation
+³       ³       ³   ÃÄÄÄmeeting_minutes
+³       ³       ³   ÀÄÄÄproject_documents
+³       ³       ÀÄÄÄmarketing
+³       ÀÄÄÄManagement
+³           ÃÄÄÄdocuments
+³           ³   ÀÄÄÄproject_documents
+³           ÃÄÄÄmeetings_minutes
+³           ÀÄÄÄreports
+ÀÄÄÄproject_N
+    ÃÄÄÄhistory
+    ³   ÃÄÄÄYYYYMMDD_release_1
+    ³   ³   ÃÄÄÄDevelopment
+    ³   ³   ³   ÃÄÄÄapplication_root
+    ³   ³   ³   ÀÄÄÄdocuments
+    ³   ³   ³       ÃÄÄÄdocumentation
+    ³   ³   ³       ³   ÃÄÄÄmeeting_minutes
+    ³   ³   ³       ³   ÀÄÄÄproject_documents
+    ³   ³   ³       ÀÄÄÄmarketing
+    ³   ³   ÀÄÄÄManagement
+    ³   ³       ÃÄÄÄdocuments
+    ³   ³       ³   ÀÄÄÄproject_documents
+    ³   ³       ÃÄÄÄmeetings_minutes
+    ³   ³       ÀÄÄÄreports
+    ³   ÃÄÄÄYYYYMMDD_release_2
+    ³   ³   ÃÄÄÄDevelopment
+    ³   ³   ³   ÃÄÄÄapplication_root
+    ³   ³   ³   ÀÄÄÄdocuments
+    ³   ³   ³       ÃÄÄÄdocumentation
+    ³   ³   ³       ³   ÃÄÄÄmeeting_minutes
+    ³   ³   ³       ³   ÀÄÄÄproject_documents
+    ³   ³   ³       ÀÄÄÄmarketing
+    ³   ³   ÀÄÄÄManagement
+    ³   ³       ÃÄÄÄdocuments
+    ³   ³       ³   ÀÄÄÄproject_documents
+    ³   ³       ÃÄÄÄmeetings_minutes
+    ³   ³       ÀÄÄÄreports
+    ³   ÃÄÄÄYYYYMMDD_release_3
+    ³   ³   ÃÄÄÄDevelopment
+    ³   ³   ³   ÃÄÄÄapplication_root
+    ³   ³   ³   ÀÄÄÄdocuments
+    ³   ³   ³       ÃÄÄÄdocumentation
+    ³   ³   ³       ³   ÃÄÄÄmeeting_minutes
+    ³   ³   ³       ³   ÀÄÄÄproject_documents
+    ³   ³   ³       ÀÄÄÄmarketing
+    ³   ³   ÀÄÄÄManagement
+    ³   ³       ÃÄÄÄdocuments
+    ³   ³       ³   ÀÄÄÄproject_documents
+    ³   ³       ÃÄÄÄmeetings_minutes
+    ³   ³       ÀÄÄÄreports
+    ³   ÀÄÄÄYYYYMMDD_release_N
+    ³       ÃÄÄÄDevelopment
+    ³       ³   ÃÄÄÄapplication_root
+    ³       ³   ÀÄÄÄdocuments
+    ³       ³       ÃÄÄÄdocumentation
+    ³       ³       ³   ÃÄÄÄmeeting_minutes
+    ³       ³       ³   ÀÄÄÄproject_documents
+    ³       ³       ÀÄÄÄmarketing
+    ³       ÀÄÄÄManagement
+    ³           ÃÄÄÄdocuments
+    ³           ³   ÀÄÄÄproject_documents
+    ³           ÃÄÄÄmeetings_minutes
+    ³           ÀÄÄÄreports
+    ÃÄÄÄknowledge_base
+    ÀÄÄÄworking_directory
+        ÃÄÄÄDevelopment
+        ³   ÃÄÄÄapplication_root
+        ³   ÀÄÄÄdocuments
+        ³       ÃÄÄÄdocumentation
+        ³       ³   ÃÄÄÄmeeting_minutes
+        ³       ³   ÀÄÄÄproject_documents
+        ³       ÀÄÄÄmarketing
+        ÀÄÄÄManagement
+            ÃÄÄÄdocuments
+            ³   ÀÄÄÄproject_documents
+            ÃÄÄÄmeetings_minutes
+            ÀÄÄÄreports
